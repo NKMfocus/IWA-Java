@@ -97,7 +97,7 @@
 
         <dependency>
             <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter-log4j2</artifactId>
+        Update org.springframework.boot:spring-boot-starter-log4j2 to a version where the transitive dependency org.apache.logging.log4j log4j-core has version 2.15.0
         </dependency>
 
         <dependency>
